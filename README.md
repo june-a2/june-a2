@@ -1,6 +1,4 @@
-# juna
-
-web developer building modern websites, full-stack applications, and custom integrations.
+# june/juna
 
 ### stack
 
